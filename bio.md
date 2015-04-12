@@ -3,3 +3,4 @@
 I enjoy cycling and hockey.
 
 Programming Background
+I've taken Accelerated Intro to Computer Science, Data Structures.
